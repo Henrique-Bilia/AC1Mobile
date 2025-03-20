@@ -1,1 +1,2 @@
-# AC1Mobile
+MaiorIdadeapp=EX01
+CalculadoraSimplesapp=EX02
