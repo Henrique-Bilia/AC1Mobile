@@ -1,2 +1,3 @@
 MaiorIdadeapp=EX01
 CalculadoraSimplesapp=EX02
+CadastroLoja=EX04
