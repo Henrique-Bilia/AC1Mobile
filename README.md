@@ -1,5 +1,6 @@
 MaiorIdadeapp=EX01
 CalculadoraSimplesapp=EX02
 CadastroLoja=EX03
-Checkboxnome=Ex04
-Checkboxpreferencias=05
+Checkboxnome=EX04
+Checkboxpreferencias=EX05
+navegacoesexercicios=EX06
